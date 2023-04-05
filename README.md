@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manubravo
 - 👀 I’m interested in Java Virtual Machine
-- 🌱 I’m currently learning Angular and PixiJS
+- 🌱 I’m currently working with Angular, NodeJS and MySQL
 - Thanks for read me ✌😁
 
 <!---
