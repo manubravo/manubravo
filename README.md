@@ -10,12 +10,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-    <a href="https://github.com/manubravo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubravo&theme=dracula" />
-    </a>
-</p>
-
 ## 🥨🍺 I was also worked in Backend in Germany with ...
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
