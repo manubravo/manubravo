@@ -1,3 +1,4 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=manubravo)
 # Hi there 👋  I’m @manubravo
 ## 📚📖 I’m currently working als a FullStack with ...
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,6 +9,12 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="center">
+    <a href="https://github.com/manubravo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubravo&theme=algolia" />
+    </a>
+</p>
 
 ## 🥨🍺 I was also worked in Backend in Germany with ...
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
