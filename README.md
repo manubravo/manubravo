@@ -67,9 +67,10 @@
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
-## 🪐🧰🗿 I always work with ...
+## 🪐🧰🗿 Now I just use ...
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=202020)
 ![CodeWhisperer](https://img.shields.io/badge/CodeWhisperer-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
