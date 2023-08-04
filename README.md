@@ -1,7 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=manubravo)
 # Hi there 👋  I’m @manubravo
-## 👨‍💻⚙🛠 I’m currently working as a FullStack with ...
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## ⚙⚡👨‍💻 My current work stack!
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MaterialIU](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -11,6 +11,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![TEAMS](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
@@ -22,6 +23,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FDF8F6?style=for-the-badge&logo=scala&logoColor=BF4722)
+![ThunderClient](https://img.shields.io/badge/ThunderClient-9146FF.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-F3DF49.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=black)
 
 ## 📚📖🤖 I was also worked with ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,15 +36,17 @@
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ![Capacitor](https://img.shields.io/static/v1?style=for-the-badge&message=Capacitor&color=119EFF&logo=Capacitor&logoColor=FFFFFF&label=)
 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
-![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-E8E8E8.svg?style=for-the-badge&logo=Apache-Cordova&logoColor=black)
+![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=2C2255&logo=Eclipse&logoColor=FFFFFF&label=)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -61,12 +66,13 @@
 ![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
-## ✨🪐🗿🧰 I always work with ...
+## 🪐🧰🗿 I always work with ...
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![CodeWhisperer](https://img.shields.io/badge/CodeWhisperer-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## ☕👀💘 but I’m really interested in Java Virtual Machine and their technologies ...
+## ☕📝🥶 but I’m really interested in Java Virtual Machine and their technologies ...
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
