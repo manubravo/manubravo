@@ -64,7 +64,6 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)
 ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
 ## 🪐🧰🗿 Now I just use ...
