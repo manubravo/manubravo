@@ -37,7 +37,7 @@
 ![CSV](https://img.shields.io/badge/CSV-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-## ☄️📚🤖 I also once use ...
+## ☄️📚🤖 Other technologies used ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -74,7 +74,7 @@
 ![ThunderClient](https://img.shields.io/badge/Thunder%20Client-9146FF.svg?style=for-the-badge&logo=AMP&logoColor=white)
 ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
-## ☕📝🗿 Now I just use ...
+## ☕📝🗿 My setup ...
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vs-code&logoColor=white)
 ![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)
