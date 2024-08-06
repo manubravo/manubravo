@@ -17,6 +17,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Pipelines](https://img.shields.io/badge/Pipelines-007FFF?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
@@ -49,6 +50,8 @@
 ![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
 ![MailTrap](https://img.shields.io/badge/mailtrap-004788.svg?style=for-the-badge&logo=Gmail&logoColor=30B980)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![W11](https://img.shields.io/badge/Windows%2011-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-E8E8E8.svg?style=for-the-badge&logo=Apache-Cordova&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
@@ -75,12 +78,13 @@
 ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
 ## ☕📝🗿 My setup ...
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vs-code&logoColor=white)
-![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)
+![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=202020)
-![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
 
 ## 📫📩🕊 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-bravo)
