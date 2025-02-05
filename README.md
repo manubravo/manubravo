@@ -35,20 +35,20 @@
 ![Makefile](https://img.shields.io/badge/Makefile-FFFFFF.svg?style=for-the-badge&logo=AnkerMake&logoColor=orange)
 
 ## 📚📖🤓 Learning or interested ...
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=FFFFFF&logo=React&logoColor=119EFF&label=)
 ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
-![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=PicPay&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=Picsart&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-FFFFFF.svg?style=for-the-badge&logo=Argo&logoColor=orange)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
 
 ## ☄️📜🦖 Other technologies used ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
