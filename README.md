@@ -49,6 +49,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
+![Switf](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
 
 ## ☄️📜🦖 Other technologies used ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
