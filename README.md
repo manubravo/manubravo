@@ -66,6 +66,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-E8E8E8.svg?style=for-the-badge&logo=Apache-Cordova&logoColor=black)
+![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -97,13 +98,13 @@
 ![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
 ## ☕⚙️🗿 My setup ...
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)
 ![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=202020)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-FFFFFF.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=black)
 
 ## 📫📩🕊 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-bravo)
