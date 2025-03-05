@@ -46,19 +46,24 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ## 📰🗞️🥸 Interested ...
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-FFFFFF.svg?style=for-the-badge&logo=Argo&logoColor=orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
-![Switf](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+<details>
+  <summary>👈🏽 Click for more details</summary>
 
-## ☄️📜🦖 Other technologies used ...
+  ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+  ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
+  ![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
+  ![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=black)
+  ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
+  ![ArgoCD](https://img.shields.io/badge/Argo%20CD-FFFFFF.svg?style=for-the-badge&logo=Argo&logoColor=orange)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+
+</details>
+
+## ☄️📜🦖 Other technologies already used ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
