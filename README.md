@@ -47,7 +47,7 @@
 
 ## 📰🗞️🥸 Interested ...
 <details>
-  <summary>👈🏽 Click for more details</summary>
+  <summary>⬇️ 👈🏽 Click me</summary>
 
   ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
@@ -63,51 +63,57 @@
 
 </details>
 
-## ☄️📜🦖 Other technologies already used ...
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
-![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
-![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
-![MailTrap](https://img.shields.io/badge/mailtrap-004788.svg?style=for-the-badge&logo=Gmail&logoColor=30B980)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![W11](https://img.shields.io/badge/Windows%2011-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
-![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
-![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-E8E8E8.svg?style=for-the-badge&logo=Apache-Cordova&logoColor=black)
-![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
+## ☄️📜🦖 Other technologies already used or learned ...
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Lombok](https://img.shields.io/badge/LOMBOK-EE0000.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
-![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit%205&color=3DDC84&logo=JUnit5&logoColor=FFFFFF&label=)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-25A162?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+<details>
+  <summary>⬇️ 👈🏽 Click me</summary>
 
-![SAPHANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![ThunderClient](https://img.shields.io/badge/Thunder%20Client-9146FF.svg?style=for-the-badge&logo=AMP&logoColor=white)
-![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
-![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
+  ![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
+  ![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
+  ![MailTrap](https://img.shields.io/badge/mailtrap-004788.svg?style=for-the-badge&logo=Gmail&logoColor=30B980)
+  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+  ![W11](https://img.shields.io/badge/Windows%2011-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/MacOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
+  ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
+  ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-E8E8E8.svg?style=for-the-badge&logo=Apache-Cordova&logoColor=black)
+  ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-9146FF.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white)
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+  ![Lombok](https://img.shields.io/badge/LOMBOK-EE0000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+  ![OpenJDK](https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
+  ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit%205&color=3DDC84&logo=JUnit5&logoColor=FFFFFF&label=)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)
+  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-25A162?style=for-the-badge&logo=android&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+  ![SAPHANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+  ![ThunderClient](https://img.shields.io/badge/Thunder%20Client-9146FF.svg?style=for-the-badge&logo=AMP&logoColor=white)
+  ![1Password](https://img.shields.io/badge/1Password-0094F5.svg?style=for-the-badge&logo=1Password&logoColor=white)
+  ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+
+</details>
 
 ## ☕⚙️🗿 My setup ...
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
@@ -120,10 +126,7 @@
 
 ## 📫📩🕊 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-bravo)
-## Thanks for read me ✌😁
 
-![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 <!---
 manubravo/manubravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
