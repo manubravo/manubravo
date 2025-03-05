@@ -1,5 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=manubravo)
+<!---
 # Hi there 👋  I’m @manubravo and I love my profession
+--->
 ## 🛡️🐦‍🔥♻️🐳 My current stack!
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Material](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=angular&logoColor=white)
