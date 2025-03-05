@@ -78,10 +78,11 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
-  ![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
-  ![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+  ![PHPMyAdmin](https://img.shields.io/badge/phpMyAdmin-white.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=6C78AF)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+  ![Eloquent](https://img.shields.io/badge/Eloquent%20ORM-white.svg?style=for-the-badge&logo=Laravel&logoColor=FF2D20)
+  ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white)
   ![MailTrap](https://img.shields.io/badge/mailtrap-004788.svg?style=for-the-badge&logo=Gmail&logoColor=30B980)
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
   ![W11](https://img.shields.io/badge/Windows%2011-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
@@ -119,10 +120,14 @@
   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
+  ![RestClient](https://img.shields.io/badge/RestClient-1976D2.svg?style=for-the-badge&logo=When-I-Work&logoColor=white)
   ![CSV](https://img.shields.io/badge/CSV-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
   ![.ENV](https://img.shields.io/badge/.env-FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
   ![JWT](https://img.shields.io/badge/JWT-F3DF49.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=black)
   ![Passport](https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white)
+  ![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
 
 </details>
 
