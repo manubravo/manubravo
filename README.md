@@ -45,12 +45,8 @@
   ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=for-the-badge&logo=Grafana&logoColor=orange)
   ![React](https://img.shields.io/badge/React-119EFF.svg?style=for-the-badge&logo=React&logoColor=white)
   ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=FFFFFF&logo=React&logoColor=119EFF&label=)
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-  ![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-white.svg?style=for-the-badge&logo=Ollama&logoColor=black)
+  ![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=Picsart&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
 
 </details>
 
@@ -62,8 +58,6 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
   ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=Picsart&logoColor=white)
-  ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
   ![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=black)
   ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
@@ -71,6 +65,11 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
   ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+  ![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-white.svg?style=for-the-badge&logo=Ollama&logoColor=black)
 
 </details>
 
