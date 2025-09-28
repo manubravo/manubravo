@@ -3,6 +3,7 @@
 # Hi there 👋  I’m @manubravo and I love my profession
 --->
 ## 🛡️🐦‍🔥♻️🐳 My current stack!
+![PayloadCMS](https://img.shields.io/badge/Payload%20CMS-000000.svg?style=for-the-badge&logo=Payload-CMS&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Material](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=angular&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -18,7 +19,6 @@
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
-![PayloadCMS](https://img.shields.io/badge/Payload-000000.svg?style=for-the-badge&logo=Payload-CMS&logoColor=white)
 
 ![Nest](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
@@ -26,13 +26,11 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-FDF8F6?style=for-the-badge&logo=scala&logoColor=BF4722)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ApacheKAFKA](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-FFFFFF.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=black)
 ![EntraID](https://img.shields.io/badge/Entra%20ID-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
 
@@ -40,37 +38,41 @@
   <summary>📚📖🤓 Learning ...</summary>
   <br>
   
+  ![KnexJS](https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-119EFF.svg?style=for-the-badge&logo=React&logoColor=white)
+  ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=FFFFFF&logo=React&logoColor=119EFF&label=)
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+  ![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
   ![Kong](https://img.shields.io/badge/Kong-003459.svg?style=for-the-badge&logo=Kong&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=for-the-badge&logo=Grafana&logoColor=orange)
-  ![React](https://img.shields.io/badge/React-119EFF.svg?style=for-the-badge&logo=React&logoColor=white)
-  ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=FFFFFF&logo=React&logoColor=119EFF&label=)
-  ![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=Picsart&logoColor=white)
-  ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
-
+  ![StoryBook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  
 </details>
 
 <details>
   <summary>📰🗞️🥸 Interested in ...</summary>
   <br>
   
-  ![StoryBook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+  ![BiomeJS](https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=Biome&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
+  ![PixiJS](https://img.shields.io/badge/PIXI.js-FF0066.svg?style=for-the-badge&logo=Picsart&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-white.svg?style=for-the-badge&logo=Ollama&logoColor=black)
   ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F.svg?style=for-the-badge&logo=Docusaurus&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=black)
   ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
-  ![ArgoCD](https://img.shields.io/badge/Argo%20CD-FFFFFF.svg?style=for-the-badge&logo=Argo&logoColor=orange)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-  ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
   ![Pypi](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-white.svg?style=for-the-badge&logo=Ollama&logoColor=black)
+  ![Reflex](https://img.shields.io/badge/Reflex-7B68EE.svg?style=for-the-badge&logo=Rust&logoColor=white)
+  ![ArgoCD](https://img.shields.io/badge/Argo%20CD-FFFFFF.svg?style=for-the-badge&logo=Argo&logoColor=orange)
 
 </details>
 
@@ -133,6 +135,8 @@
   ![Passport](https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white)
   ![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
   ![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
+  ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
