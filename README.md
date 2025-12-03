@@ -7,18 +7,14 @@
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Material](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=angular&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![Capacitor](https://img.shields.io/static/v1?style=for-the-badge&message=Capacitor&color=FFFFFF&logo=Capacitor&logoColor=119EFF&label=)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-FFFFFF.svg?style=for-the-badge&logo=AnkerMake&logoColor=orange)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB.svg?style=for-the-badge&logo=Excalidraw&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=CodersRank&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-F56565.svg?style=for-the-badge&logo=Lucide&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
 ![Nest](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
@@ -30,24 +26,26 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-FFFFFF.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=black)
-![EntraID](https://img.shields.io/badge/Entra%20ID-007FFF.svg?style=for-the-badge&logo=tmux&logoColor=white)
+![EntraID](https://img.shields.io/badge/Entra%20ID-007FFF.svg?style=for-the-badge&logo=AdGuard&logoColor=white)
 
 <details>
   <summary>📚📖🤓 Learning ...</summary>
   <br>
   
-  ![KnexJS](https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
   ![React](https://img.shields.io/badge/React-119EFF.svg?style=for-the-badge&logo=React&logoColor=white)
   ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React%20Native&color=FFFFFF&logo=React&logoColor=119EFF&label=)
+  ![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![KnexJS](https://img.shields.io/badge/Knex.js-D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white)
   ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-  ![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
+  ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-09D3AC.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
   ![Kong](https://img.shields.io/badge/Kong-003459.svg?style=for-the-badge&logo=Kong&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-black.svg?style=for-the-badge&logo=Grafana&logoColor=orange)
   ![StoryBook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
   
 </details>
 
@@ -55,6 +53,8 @@
   <summary>📰🗞️🥸 Interested in ...</summary>
   <br>
   
+  ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
   ![BiomeJS](https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=Biome&logoColor=white)
   ![ThreeJS](https://img.shields.io/badge/Three.js-FFFFFF.svg?style=for-the-badge&logo=threedotjs&logoColor=black)
@@ -124,7 +124,6 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
@@ -137,6 +136,13 @@
   ![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black)
   ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+  ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+  ![Capacitor](https://img.shields.io/static/v1?style=for-the-badge&message=Capacitor&color=FFFFFF&logo=Capacitor&logoColor=119EFF&label=)
+  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+  ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![Copilot](https://img.shields.io/badge/Copilot-FFFFFF.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=black)
 
 </details>
 
